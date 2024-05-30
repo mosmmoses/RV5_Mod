@@ -1,0 +1,16 @@
+HelperLib.c:9:37:halt	4	static
+HelperLib.c:20:6:pause	16	static
+HelperLib.c:30:6:Adc1Copy	8	static
+HelperLib.c:36:6:AdcSort	12	static
+HelperLib.c:57:6:AdcFilter	40	static
+HelperLib.c:90:6:ScanKnobs	40	static
+HelperLib.c:114:6:ScanPotsShadowProc	24	static
+HelperLib.c:126:6:ScanPotsShadow	16	static
+HelperLib.c:138:6:TriggersResetAll	0	static
+HelperLib.c:144:6:KnobsResetAll	0	static
+HelperLib.c:157:6:PotsInit	8	static
+HelperLib.c:174:6:Key	0	static
+HelperLib.c:245:7:jquad	8	static
+HelperLib.c:251:6:LDIR	0	static
+HelperLib.c:257:6:LDIRc	0	static
+HelperLib.c:264:6:CLEARS	0	static

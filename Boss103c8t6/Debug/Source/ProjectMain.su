@@ -1,0 +1,7 @@
+ProjectMain.c:35:6:ProjectMain	16	static
+ProjectMain.c:134:6:PresetSaveToRam	16	static
+ProjectMain.c:140:6:PresetLoadFromRam	16	static
+ProjectMain.c:150:6:UsbReceivedMidiCC	32	static
+ProjectMain.c:170:6:UsbReceivedMidiPC	16	static
+ProjectMain.c:178:6:display	48	static
+ProjectMain.c:210:6:sendToDigitalPots	40	static
